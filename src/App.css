@@ -1,0 +1,23 @@
+
+.row2inp{
+    border: none;
+    outline: none;
+}
+
+.calculater{
+    background-color: rgb(50, 30, 30);
+    width: 400px;
+    margin: 0 auto;
+    padding: 30px 20px;
+    border-radius: 20px;
+}
+
+.cal{
+    width: 90px;
+    height: 55px;
+}
+
+.buttons{
+    width: 300px;
+    margin: 0 auto;
+}
